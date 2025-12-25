@@ -50,10 +50,15 @@ Processes and extracts relevant information from API responses.
 How It Works
 
 The user enters a city name into the application.
+
 The program sends a request to the OpenWeather API using the provided city name.
+
 The API returns weather data in JSON format.
+
 The program extracts key weather details such as temperature, humidity, and weather condition.
+
 The retrieved information is displayed to the user in a clear and readable format.
+
 If the city name is invalid or an error occurs, an appropriate message is shown.
 
 Outcome
