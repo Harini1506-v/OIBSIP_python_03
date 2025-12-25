@@ -29,13 +29,18 @@ The program handles invalid city names or API-related errors gracefully, providi
 
 Simple App-Style Interface:
 The project uses a clean and beginner-friendly interface that simulates a real application model.
+
 Technologies and Concepts Used
+
 Python 3.x:
 The primary programming language used for application development.
+
 Requests Module:
 Used to send HTTP requests and receive data from the weather API.
+
 Tkinter:
 Used to create a simple graphical user interface for the application.
+
 API Integration:
 Demonstrates how to connect Python programs with external web services.
 JSON Data Handling:
