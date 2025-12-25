@@ -20,10 +20,13 @@ The application allows users to enter a city name to retrieve current weather de
 
 Real-Time Weather Data:
 Weather information is fetched dynamically using an external API, ensuring accurate and up-to-date results.
+
 Weather Details Display:
 The application displays essential weather information including temperature, humidity, and current weather conditions.
+
 Error Handling:
 The program handles invalid city names or API-related errors gracefully, providing clear feedback to the user.
+
 Simple App-Style Interface:
 The project uses a clean and beginner-friendly interface that simulates a real application model.
 Technologies and Concepts Used
