@@ -11,7 +11,9 @@ Weather information plays an important role in daily planning and decision-makin
 
 Features
 
-The Weather App includes the following features:
+The Weather App includes the following 
+
+features:
 City-Based Weather Search:
 The application allows users to enter a city name to retrieve current weather details for that location.
 Real-Time Weather Data:
