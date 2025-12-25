@@ -8,7 +8,9 @@ The Weather App is a Python-based application developed as part of Task 3 of the
 Project Overview
 
 Weather information plays an important role in daily planning and decision-making. The Weather App allows users to enter the name of a city and retrieve current weather details for that location. The program connects to the OpenWeather API, processes the JSON response, and presents the data in a simple and user-friendly format. This project demonstrates how Python can be used to interact with real-world web services and convert raw data into meaningful information.
+
 Features
+
 The Weather App includes the following features:
 City-Based Weather Search:
 The application allows users to enter a city name to retrieve current weather details for that location.
