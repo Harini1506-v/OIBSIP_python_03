@@ -4,6 +4,7 @@ The application uses an external API to fetch real-time weather data and display
 Weather App
 Oasis Infobyte Internship – Task 3
 The Weather App is a Python-based application developed as part of Task 3 of the Oasis Infobyte Internship. This project is designed to provide real-time weather information based on user input and helps beginners understand how to work with APIs in Python. The application fetches live weather data using an external API and displays important weather details such as temperature, humidity, and weather conditions. It focuses on strengthening core Python concepts along with practical API integration.
+
 Project Overview
 Weather information plays an important role in daily planning and decision-making. The Weather App allows users to enter the name of a city and retrieve current weather details for that location. The program connects to the OpenWeather API, processes the JSON response, and presents the data in a simple and user-friendly format. This project demonstrates how Python can be used to interact with real-world web services and convert raw data into meaningful information.
 Features
