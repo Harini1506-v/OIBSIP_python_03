@@ -14,8 +14,10 @@ Features
 The Weather App includes the following 
 
 features:
+
 City-Based Weather Search:
 The application allows users to enter a city name to retrieve current weather details for that location.
+
 Real-Time Weather Data:
 Weather information is fetched dynamically using an external API, ensuring accurate and up-to-date results.
 Weather Details Display:
